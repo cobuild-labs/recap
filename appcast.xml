@@ -6,6 +6,15 @@
     <description>Updates for Recap</description>
     <language>en</language>
     <item>
+      <title>Version 1.1</title>
+      <pubDate>Fri, 13 Nov 2026 01:10:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Ask your meetings.</b> A new Ask tab answers questions about any recap, and ⌘J asks across all of them. One click writes the follow-up email.</p><ul><li>Your notes shape the summary, and moments you mark get covered</li><li>Live transcript beside your notes while recording</li><li>Recap types, renaming speakers, and shortcuts that work from any app</li><li>Built-in AI for summaries, nothing to set up</li><li>Recaps start straight away while Whisper gets ready, and the Mac audio permission check is fixed</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/recap/releases/download/v1.1/Recap.dmg" sparkle:edSignature="xxtmoLT79kh50epWkjRkJS3nB+zpgY9oDhVjzdm5iOPqpVgr6+4hErstwpt7eZsXbvZkUsajgeEtBJzE/XQhBQ==" length="9701811" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.0</title>
       <pubDate>Thu, 12 Nov 2026 13:05:00 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
