@@ -6,6 +6,15 @@
     <description>Updates for Recap</description>
     <language>en</language>
     <item>
+      <title>Version 1.3</title>
+      <pubDate>Sun, 15 Nov 2026 09:45:00 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Share your recaps.</b> Send any recap as a link. People open it in their browser, no app or account needed, and can download it as a PDF. Links are locked on your Mac, so not even CoBuild can read them.</p><ul><li>Optional password, expiry, or share only with people you invite</li><li>One Share button for links and downloads</li><li>Claude can answer about your recaps even when your Mac is off, from summaries and notes (transcripts stay on your Mac)</li><li>Clearer messages while transcription gets ready</li><li>Bug fixes and improvements</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/recap/releases/download/v1.3/Recap.dmg" sparkle:edSignature="+4yPsEJ3SuT2FwZRotPciidyXHCLwooFnfCjgnA8rw9CgjDQXyGwXchsUOD/TchoOKDfucmT3KERpbTwDo4xCQ==" length="10051300" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2</title>
       <pubDate>Fri, 13 Nov 2026 07:45:00 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
