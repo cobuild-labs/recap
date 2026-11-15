@@ -6,6 +6,15 @@
     <description>Updates for Recap</description>
     <language>en</language>
     <item>
+      <title>Version 1.4</title>
+      <pubDate>Sun, 15 Nov 2026 13:50:00 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>A cleaner, more modern Recap.</b> A new toolbar with Download on its own button and one Share button, and share links that update by themselves when you edit a recap.</p><ul><li>Redesigned Share panel</li><li>Simpler Claude settings: Recap shows when CoBuild is already added in Claude</li><li>A first-run step to choose updates, Claude and what's kept in the cloud</li><li>Downloads open as a sheet and offer Show in Finder</li><li>Bug fixes and improvements</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/recap/releases/download/v1.4/Recap.dmg" sparkle:edSignature="9q8JVzozi1XFONJ+83GZoiajeOxesuc8lBEok8gNBszHsNy0yUoQo5GaWlJHHNnZKHLhc9La0E0isJFvz9IHAA==" length="10220124" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3</title>
       <pubDate>Sun, 15 Nov 2026 09:45:00 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
