@@ -7,6 +7,15 @@
     <language>en</language>
     <item>
       <title>Version 1.4</title>
+      <pubDate>Tue, 17 Nov 2026 02:00:00 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Recap now connects through CoBuild's new home, thecobuild.com,</b> for your licence, share links and CoBuild for Claude.</p><ul><li>General bug fixes and performance improvements</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/recap/releases/download/v1.4-b6/Recap.dmg" sparkle:edSignature="0HsI4BeFIb4iuYpSe5b4wvYF8Nxrht83UjWeFxXPgM1bBIisG5CeATuz2nlBBUsxKk9dR+uIcZcabaAseM36CA==" length="10226019" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 1.4</title>
       <pubDate>Sun, 15 Nov 2026 13:50:00 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
